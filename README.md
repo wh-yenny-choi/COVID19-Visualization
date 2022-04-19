@@ -8,7 +8,7 @@
 3. AWS 내 MySQL에 전처리한 데이터를 table 형태로 적재
 4. MySQL과 tableau를 백엔드 연결
 5. tableau를 이용한 인터렉티브 시각화
-![image](https://user-images.githubusercontent.com/85285215/163948065-c7aa2104-b680-4dcd-9470-d25213d9ccb5.png)
+![image](https://user-images.githubusercontent.com/85285215/163950924-7453a11f-50d9-4af9-838b-edf091c9f14c.png)
 
 ### 데이터 출처
 - 공공데이터 포털
